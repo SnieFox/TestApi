@@ -1,0 +1,14 @@
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\bin\Debug\net6.0\GeneratorProject.DAL.deps.json
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\bin\Debug\net6.0\GeneratorProject.DAL.runtimeconfig.json
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\bin\Debug\net6.0\GeneratorProject.DAL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\bin\Debug\net6.0\GeneratorProject.DAL.pdb
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.AssemblyInfo.cs
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\refint\GeneratorProject.DAL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.pdb
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\GeneratorProject.DAL.genruntimeconfig.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.DAL\obj\Debug\net6.0\ref\GeneratorProject.DAL.dll

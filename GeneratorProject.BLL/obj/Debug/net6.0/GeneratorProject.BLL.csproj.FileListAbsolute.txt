@@ -1,0 +1,17 @@
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\bin\Debug\net6.0\GeneratorProject.BLL.deps.json
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\bin\Debug\net6.0\GeneratorProject.BLL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\bin\Debug\net6.0\GeneratorProject.BLL.pdb
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\bin\Debug\net6.0\GeneratorProject.DAL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\bin\Debug\net6.0\GeneratorProject.DAL.pdb
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.csproj.AssemblyReference.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.AssemblyInfoInputs.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.AssemblyInfo.cs
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.csproj.CopyComplete
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\refint\GeneratorProject.BLL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.pdb
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\ref\GeneratorProject.BLL.dll
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\bin\Debug\net6.0\GeneratorProject.BLL.runtimeconfig.json
+C:\Users\Roflokektikpukpek\Desktop\.net learn\GeneratorProject\GeneratorProject.BLL\obj\Debug\net6.0\GeneratorProject.BLL.genruntimeconfig.cache

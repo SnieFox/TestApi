@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FN4yQFJ7hAa66M7OhpM2ZrZT88Xul/qfh/YeLDYLpoyG/guQiWMzuLOumx3QrPFC4cDgzoFguKQ268proStMlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roflokektikpukpek\\Desktop\\.net learn\\GeneratorProject\\GeneratorApi.Database\\GeneratorApi.Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roflokektikpukpek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Roflokektikpukpek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Roflokektikpukpek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
